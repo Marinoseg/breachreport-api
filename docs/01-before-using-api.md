@@ -57,6 +57,8 @@ Things you must know before using Breach Report API:
 * [Getting the API key](#getting-the-api-key)
 * [Adding an email address](#adding-an-email-address)
 * [Verifying an email address](#verifying-a-registered-email-address)
+* [Adding a Domain](#adding-a-domain)
+* [Verifying a Domain](#verifying-a-domain)
 * [HTTP response codes](#http-response-codes)
 
 <p align="center">
