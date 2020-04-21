@@ -16,7 +16,7 @@
   <h4>
   <span> | </span>
   <a href="./docs/01-before-using-api.md">
-      Prepare
+      Before you start
     </a>
 	<span> | </span>
     <a href="./docs/02-check-email-domains.md">
@@ -47,13 +47,13 @@
 
 ## Overview
 
-The Breach Report API team monitors the internet for information about data breaches. Currently, our database contains information about over 12B compromised user accounts. Your applications can access this information via Breach Report API.
+Breach Report monitors the internet for information about data breaches. Currently, the compiled database contains information about over 12B compromised user accounts. Your applications can access this information via Breach Report API.
 
 
 
 ## Getting started
 
-Before using Breach Report API, make sure you've registered at [Breach Report API portal](https://breachreport.com) so you can get and use [the unique API key](docs/01-before-using-api.md/#getting-the-api-key).
+Before using Breach Report API, make sure you've registered at [Breach Report portal](https://breachreport.com/portal/signup) so you can get and use [the unique API key](docs/01-before-using-api.md/#getting-the-api-key).
 
 When you use Breach Report API, include the key in each API call header.
 
@@ -63,14 +63,14 @@ When you use Breach Report API, include the key in each API call header.
 
 Breach Report API can be tested using various automation tools.
 
-Contact the technical support for the additional API aids (request schemas, etc).
-
 The following parameters can be specified via the test environment.
 
 | PARAMETER | VALUE | COMMENTS |
 | ------ | ------ | ------ |
 | BASE_URL | `https://breachreport.com` |  |
 | API_KEY | `your-secret-key` | See [Getting the API key](./docs/before-using-api.md#getting-the-api-key) for details. |
+
+Contact the [technical support](mailto:support@breachreport.com) for the additional API aids (request schemas, etc).
 
 
 
@@ -90,6 +90,7 @@ For detailed information on how to use the API, see the following pages:
 
 If you need help integrating your application with Breach Report API or need additional information, feel free to contact us on:
 
+* [LinkedIn](https://www.linkedin.com/company/breach-report)
 * [Facebook](https://www.facebook.com/breachreport/)
 * [Twitter](https://twitter.com/BreachReports)
 
@@ -99,7 +100,7 @@ If you want to report a security issue, include the word "security" in the subje
 
 We look forward to hearing from you.
 
-And, we hope that you enjoy using Breach Report API and the integration goes smoothly!
+And, we hope that you enjoy using Breach Report API and your integration goes smoothly!
 
 
 
@@ -117,7 +118,7 @@ Breach Report provides several Business and Enterprise subscription plans.
 
 For information about the current subscription opportunities, see [Billing and Payments](https://breachreport.com/portal/subscriptions) on the Breach Report portal.
 
-The subscription plans may have limitations for the number of domains to track and number of available API calls. To remove the current limitations, you may upgrade your current BR account.
+The subscription plans may have limitations for the number of domains to track and number of available API calls. To remove the current limitations, you may need to upgrade your existing BR account.
 
 For further information, contact the product support at support@breachreport.com.
 
