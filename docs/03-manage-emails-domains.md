@@ -232,7 +232,7 @@ puts response.read_body
 
 This API request adds an internet domain to a Breach Report account. The target Breach Report account must be identified by the API key from the request header. In addition to this, this API call returns the domain verification code. 
 
-Some of the popular internet domains (gmail.com, facebook.com and such) are included in the API stop list and cannot be added.
+Some popular internet domains (gmail.com, facebook.com and such) are included in the API stop list and cannot be added. However, if you represent one of the companies from the stop list and wish to use our service, please contact us at support@breachreport.com.
 
 The request returns a response code and a status message.
 
